@@ -1,0 +1,3 @@
+rootProject.name = 'partials'
+include ":api"
+include ":processor"
